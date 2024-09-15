@@ -1,0 +1,3 @@
+﻿  Classwork3.cpp
+C:\Users\glenn\Desktop\BCC\Cis25\Classwork3\Classwork3\Classwork3.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Classwork3.vcxproj -> C:\Users\glenn\Desktop\BCC\Cis25\Classwork3\x64\Debug\Classwork3.exe
